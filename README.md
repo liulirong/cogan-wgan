@@ -1,4 +1,4 @@
-##This code is heavily built on these repo:   
+## This code is heavily built on these repo:   
 - [CoGAN](https://github.com/carpedm20/DCGAN-tensorflow) from @andrewliao11
 - [WGAN](https://github.com/mingyuliutw/CoGAN) from @Zardinality
 Thanks to the the contribution of @andrewliao11, @Zardinality.
